@@ -47,6 +47,7 @@ requests if possible.
 	<repositories>
         <!-- CodeMc -->
         <repository>
+            <h1> PLACEMENT-TRAINING </h1>
             <id>codemc-repo</id>
             <url>https://repo.codemc.org/repository/maven-public/</url>
         </repository>
