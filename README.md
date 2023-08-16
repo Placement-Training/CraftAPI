@@ -47,6 +47,7 @@ requests if possible.
 	<repositories>
         <!-- CodeMc -->
         <repository>
+        <h1>PLACEMENT TRAINING</h1>
             <id>codemc-repo</id>
             <url>https://repo.codemc.org/repository/maven-public/</url>
         </repository>
@@ -77,4 +78,3 @@ Inspired by
 * [Mojang AccountsClient](https://github.com/JonMcPherson/AccountsClient/)
 * [API proxy Interceptor](https://github.com/Shevchik/MojangAPIProxy)
 
-hey..!
