@@ -47,7 +47,11 @@ requests if possible.
 	<repositories>
         <!-- CodeMc -->
         <repository>
+<<<<<<< HEAD
         <h1>PLACEMENT TRAINING</h1>
+=======
+            <h1> PLACEMENT-TRAINING </h1>
+>>>>>>> 146eaa753bfdbe95e02bd40a285ce5500b04422c
             <id>codemc-repo</id>
             <url>https://repo.codemc.org/repository/maven-public/</url>
         </repository>
